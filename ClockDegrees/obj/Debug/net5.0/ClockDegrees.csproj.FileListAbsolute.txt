@@ -1,0 +1,16 @@
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.exe
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.deps.json
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.runtimeconfig.json
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.runtimeconfig.dev.json
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.dll
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\bin\Debug\net5.0\ref\ClockDegrees.dll
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.pdb
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.csprojAssemblyReference.cache
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.AssemblyInfoInputs.cache
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.AssemblyInfo.cs
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.csproj.CoreCompileInputs.cache
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.dll
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\obj\Debug\net5.0\ref\ClockDegrees.dll
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.pdb
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\1_ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.genruntimeconfig.cache
